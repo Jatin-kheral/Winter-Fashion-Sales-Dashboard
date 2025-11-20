@@ -12,7 +12,7 @@ This dashboard explores:
 
 * Fabric choices including wool, fleece, and cotton blends
 
-* Month-wise buying trends
+* This visual compares total sales across categories with their average selling price to highlight which product groups perform the best.
 
 * Brand performance based on sales and customer interest
 
