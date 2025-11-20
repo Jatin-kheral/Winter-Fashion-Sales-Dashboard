@@ -21,11 +21,3 @@ This dashboard explores:
 
 # 📸 Dashboard Preview
 ![Dashboard Screenshot](https://github.com/user-attachments/assets/c0aeec40-454f-42f3-a224-e486fa547b6e)
-
-
-
-### 1️⃣ Winter Fashion Trend – Full Dashboard View
-![Winter Fashion Trend Dashboard](/mnt/data/Screenshot 2025-11-20 160827.png)
-
-
-
